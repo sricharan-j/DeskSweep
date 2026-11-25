@@ -1,0 +1,91 @@
+{
+  "categories": {
+    "Documents": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".txt",
+      ".rtf",
+      ".odt",
+      ".ppt",
+      ".pptx",
+      ".xls",
+      ".xlsx",
+      ".csv"
+    ],
+    "Code": [
+      ".py",
+      ".ipynb",
+      ".js",
+      ".ts",
+      ".tsx",
+      ".jsx",
+      ".html",
+      ".css",
+      ".json",
+      ".java",
+      ".c",
+      ".cpp",
+      ".h",
+      ".cs",
+      ".go",
+      ".rs",
+      ".sql",
+      ".sh",
+      ".ps1",
+      ".md"
+    ],
+    "Images": [
+      ".png",
+      ".jpg",
+      ".jpeg",
+      ".gif",
+      ".webp",
+      ".svg",
+      ".bmp",
+      ".ico",
+      ".heic"
+    ],
+    "Archives": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz",
+      ".bz2",
+      ".xz"
+    ],
+    "Installers": [
+      ".exe",
+      ".msi",
+      ".msix",
+      ".appx"
+    ],
+    "Media": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".m4a",
+      ".mp4",
+      ".mkv",
+      ".mov",
+      ".avi",
+      ".webm"
+    ],
+    "Others": []
+  },
+  "ignored_extensions": [
+    ".crdownload",
+    ".download",
+    ".ini",
+    ".lnk",
+    ".part",
+    ".partial",
+    ".tmp"
+  ],
+  "excluded_paths": [],
+  "destination_root": "",
+  "organize_folders": false,
+  "folders_category_name": "Folders",
+  "settle_seconds": 3.0
+}

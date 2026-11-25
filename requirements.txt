@@ -1,0 +1,4 @@
+customtkinter>=5.2.2,<7
+watchdog>=6.0.0,<8
+pystray>=0.19.5,<0.20
+pillow>=12.0.0,<14

@@ -1,0 +1,11 @@
+# Ignore local user history and lock files
+history.json
+history.json.lock
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.venv-tk/
+.qa/
